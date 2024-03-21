@@ -1,0 +1,394 @@
+{
+  "5d-electric-mining-drill-02": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 1,
+    "name": "5d-electric-mining-drill-02",
+    "resource_categories": [
+      "basic-solid"
+    ]
+  },
+  "5d-electric-mining-drill-03": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 1.5,
+    "name": "5d-electric-mining-drill-03",
+    "resource_categories": [
+      "basic-solid"
+    ]
+  },
+  "5d-electric-mining-drill-04": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 2,
+    "name": "5d-electric-mining-drill-04",
+    "resource_categories": [
+      "basic-solid"
+    ]
+  },
+  "5d-electric-mining-drill-05": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 2.5,
+    "name": "5d-electric-mining-drill-05",
+    "resource_categories": [
+      "basic-solid"
+    ]
+  },
+  "5d-electric-mining-drill-06": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 3,
+    "name": "5d-electric-mining-drill-06",
+    "resource_categories": [
+      "basic-solid"
+    ]
+  },
+  "5d-electric-mining-drill-07": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 3.5,
+    "name": "5d-electric-mining-drill-07",
+    "resource_categories": [
+      "basic-solid"
+    ]
+  },
+  "5d-electric-mining-drill-08": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 4,
+    "name": "5d-electric-mining-drill-08",
+    "resource_categories": [
+      "basic-solid"
+    ]
+  },
+  "5d-electric-mining-drill-09": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 4.5,
+    "name": "5d-electric-mining-drill-09",
+    "resource_categories": [
+      "basic-solid"
+    ]
+  },
+  "5d-electric-mining-drill-10": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 5,
+    "name": "5d-electric-mining-drill-10",
+    "resource_categories": [
+      "basic-solid"
+    ]
+  },
+  "5d-pumpjack-02": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 2.5,
+    "name": "5d-pumpjack-02",
+    "resource_categories": [
+      "oil"
+    ]
+  },
+  "5d-pumpjack-03": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 3,
+    "name": "5d-pumpjack-03",
+    "resource_categories": [
+      "oil"
+    ]
+  },
+  "5d-pumpjack-04": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 3.5,
+    "name": "5d-pumpjack-04",
+    "resource_categories": [
+      "oil"
+    ]
+  },
+  "5d-pumpjack-05": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 4,
+    "name": "5d-pumpjack-05",
+    "resource_categories": [
+      "oil"
+    ]
+  },
+  "5d-pumpjack-06": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 4.5,
+    "name": "5d-pumpjack-06",
+    "resource_categories": [
+      "oil"
+    ]
+  },
+  "5d-pumpjack-07": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 5,
+    "name": "5d-pumpjack-07",
+    "resource_categories": [
+      "oil"
+    ]
+  },
+  "5d-pumpjack-08": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 5.5,
+    "name": "5d-pumpjack-08",
+    "resource_categories": [
+      "oil"
+    ]
+  },
+  "5d-pumpjack-09": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 6,
+    "name": "5d-pumpjack-09",
+    "resource_categories": [
+      "oil"
+    ]
+  },
+  "5d-pumpjack-10": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 6.5,
+    "name": "5d-pumpjack-10",
+    "resource_categories": [
+      "oil"
+    ]
+  },
+  "area-mining-drill": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 1,
+    "name": "area-mining-drill",
+    "resource_categories": [
+      "basic-solid",
+      "hard-resource"
+    ]
+  },
+  "burner-mining-drill": {
+    "allowed_effects": {
+      "consumption": false,
+      "pollution": false,
+      "productivity": false,
+      "speed": false
+    },
+    "mining_speed": 0.25,
+    "name": "burner-mining-drill",
+    "resource_categories": [
+      "basic-solid"
+    ]
+  },
+  "electric-mining-drill": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 0.5,
+    "name": "electric-mining-drill",
+    "resource_categories": [
+      "basic-solid"
+    ]
+  },
+  "gas-extractor": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 2,
+    "name": "gas-extractor",
+    "resource_categories": [
+      "gas"
+    ]
+  },
+  "geothermal-well": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 80,
+    "name": "geothermal-well",
+    "resource_categories": [
+      "geothermal"
+    ]
+  },
+  "kr-electric-mining-drill-mk2": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 0.75,
+    "name": "kr-electric-mining-drill-mk2",
+    "resource_categories": [
+      "basic-solid"
+    ]
+  },
+  "kr-electric-mining-drill-mk3": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 1.2,
+    "name": "kr-electric-mining-drill-mk3",
+    "resource_categories": [
+      "basic-solid",
+      "hard-resource"
+    ]
+  },
+  "kr-mineral-water-pumpjack": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 2,
+    "name": "kr-mineral-water-pumpjack",
+    "resource_categories": [
+      "basic-fluid"
+    ]
+  },
+  "kr-quarry-drill": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 10,
+    "name": "kr-quarry-drill",
+    "resource_categories": [
+      "kr-quarry"
+    ]
+  },
+  "oil_rig": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 2,
+    "name": "oil_rig",
+    "resource_categories": [
+      "oil"
+    ]
+  },
+  "pumpjack": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 2,
+    "name": "pumpjack",
+    "resource_categories": [
+      "oil"
+    ]
+  },
+  "se-core-miner-drill": {
+    "allowed_effects": {
+      "consumption": true,
+      "pollution": true,
+      "productivity": true,
+      "speed": true
+    },
+    "mining_speed": 100,
+    "name": "se-core-miner-drill",
+    "resource_categories": [
+      "se-core-mining"
+    ]
+  }
+}
